@@ -1,6 +1,6 @@
 function App(){
   return (<>
-  <h1>Auth App asfdasfasfddgsgs</h1>
+  <h1>Auth App </h1>
   </>)
 }
 
